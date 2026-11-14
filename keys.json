@@ -1,0 +1,14 @@
+{
+  "global": {
+    "alt-left": "tab.prev",
+    "alt-right": "tab.next",
+    "alt-up": "space.prev",
+    "alt-down": "space.next"
+  },
+  "terminal": {
+    "alt-left": "tab.prev",
+    "alt-right": "tab.next",
+    "alt-up": "space.prev",
+    "alt-down": "space.next"
+  }
+}
